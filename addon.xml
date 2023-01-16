@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.cabintv" version="1.0.0" name="CabinTV" provider-name="phil65, Ichabod Fletchman">
+<addon id="skin.cabintv" version="1.0.3" name="CabinTV" provider-name="phil65, Ichabod Fletchman">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0"/>
 	</requires>
